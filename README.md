@@ -74,12 +74,51 @@ Everything profiled for penguindriver-com is published on APIs.io rather than in
 
 ### APIs (4)
 
-- PenguinDriver Main API — Main API for penguindriver.com providing data aggregation services.
-- Creator API — Creator site API for influencer campaign tools.
-- Crypto API — Cryptocurrency data API.
-- Data API — Data site API for cryptocurrency data aggregation.
+- [PenguinDriver Main API](https://apis.io/apis/penguindriver-com/penguindriver-main-api/) — Main API for penguindriver.com providing data aggregation services.
+- [Creator API](https://apis.io/apis/penguindriver-com/creator-api/) — Creator site API for influencer campaign tools.
+- [Crypto API](https://apis.io/apis/penguindriver-com/crypto-api/) — Cryptocurrency data API.
+- [Data API](https://apis.io/apis/penguindriver-com/data-api/) — Data site API for cryptocurrency data aggregation.
 
-_These APIs get their own pages on APIs.io at the next catalog build, and this README is re-rendered with links when they do._
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Penguindriver Com Agentic Access](https://apis.io/agentic-access/penguindriver-com/penguindriver-com-agentic-access/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [penguindriver-com API Rules](https://apis.io/rules/penguindriver-com/penguindriver-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Penguindriver Com Authentication](https://apis.io/security/penguindriver-com/penguindriver-com-authentication/)
+- [Penguindriver Com Domain Security](https://apis.io/security/penguindriver-com/penguindriver-com-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Penguindriver Com Scopes](https://apis.io/scopes/penguindriver-com/penguindriver-com-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Penguindriver Com Plans Pricing](https://apis.io/plans/penguindriver-com/penguindriver-com-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Penguindriver Com Rate Limits](https://apis.io/rate-limits/penguindriver-com/penguindriver-com-rate-limits/)
 
 ## Where to find this API
 
@@ -92,7 +131,46 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/penguindriver-com/](https://apis.io/providers/penguindriver-com/).
+**Kin Score 24.4** — emerging · rubric 0.25.0 · scored 2026-10-29
+
+| Facet | Score |
+|---|---|
+| Discoverability | 70.0 |
+| Contract quality | 0.0 |
+| Contract governance | 79.1 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 23.1 |
+| Access clarity | 10.5 |
+
+**Agent readiness 16.1** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 22.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/penguindriver-com/](https://apis.io/providers/penguindriver-com/).
 
 ## How this profile is made
 
